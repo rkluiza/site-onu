@@ -1,0 +1,11 @@
+.divFooter{
+    background-color: white;
+    width: 100%;
+    padding: 40px;
+    margin-top: 10px;
+}
+.img{
+    min-width: 200px;
+    width: 60%;
+}
+

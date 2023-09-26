@@ -1,0 +1,16 @@
+.div{
+  width: 100%;
+  background-color: white;
+  margin-bottom: 20px;
+  min-height: 450px;
+}
+
+.img{
+  width: 100%;
+}
+
+.p{
+  padding: 20px ;
+  font-weight: bold;
+  
+}
